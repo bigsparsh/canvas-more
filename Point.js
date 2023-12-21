@@ -16,3 +16,4 @@ class Point {
 		this.ctx.closePath();
 	}
 }
+export default Point;
